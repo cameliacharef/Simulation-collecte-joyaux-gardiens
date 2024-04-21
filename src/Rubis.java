@@ -1,5 +1,4 @@
-//CHAREF CAMELIA 21202057
-//BEN MIMOUN SARAH 28713241
+
 public class Rubis extends Joyau {
     private int prix;
     public Rubis(int quantite) {
