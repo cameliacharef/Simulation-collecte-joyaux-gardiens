@@ -1,0 +1,749 @@
+Initial State:
+Contenu de la grille:
+Diamant[id:124 quantite: 1]  en position (0, 0)
+Diamant[id:132 quantite: 1]  en position (0, 1)
+Diamant[id:81 quantite: 1]  en position (0, 2)
+Rubis[id:125 quantite: 1]  en position (0, 3)
+Opale[id:114 quantite: 1]  en position (0, 4)
+Rubis[id:119 quantite: 1]  en position (1, 0)
+Gardien[id:116 quantite: 3]  en position (1, 1)
+Rubis[id:122 quantite: 1]  en position (1, 2)
+Gardien[id:118 quantite: 4]  en position (1, 3)
+Opale[id:111 quantite: 1]  en position (1, 4)
+Gardien[id:129 quantite: 6]  en position (2, 0)
+Gardien[id:140 quantite: 0]  en position (2, 1)
+Opale[id:103 quantite: 1]  en position (2, 2)
+Gardien[id:32 quantite: 0]  en position (2, 3)
+Gardien[id:127 quantite: 1]  en position (2, 4)
+Gardien[id:138 quantite: 3]  en position (3, 0)
+Gardien[id:113 quantite: 3]  en position (3, 1)
+Gardien[id:134 quantite: 2]  en position (3, 2)
+Gardien[id:85 quantite: 3]  en position (3, 3)
+Diamant[id:66 quantite: 1]  en position (3, 4)
+Gardien[id:136 quantite: 9]  en position (4, 0)
+Rubis[id:102 quantite: 1]  en position (4, 1)
+Gardien[id:96 quantite: 8]  en position (4, 2)
+Gardien[id:5 quantite: 3]  en position (4, 3)
+Gardien[id:131 quantite: 6]  en position (4, 4)
+Information sur l'agent:
+Position de l'agent: (0, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: sac est vide
+
+Étape 1:
+Déplacement de l'agent vers la position (0, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 1)
+Fortune de l'agent: 1196
+Contenu du sac de l'agent: 
+Diamant[id:132 quantite: 1]  n'est pas sur le terrain.  
+Étape 2:
+Déplacement de l'agent vers la position (1, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 2)
+Fortune de l'agent: 2705
+Contenu du sac de l'agent: 
+Diamant[id:132 quantite: 1]  n'est pas sur le terrain.  Rubis[id:122 quantite: 1]  n'est pas sur le terrain.  
+Étape 3:
+Déplacement de l'agent vers la position (1, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 2)
+Fortune de l'agent: 2705
+Contenu du sac de l'agent: 
+Diamant[id:132 quantite: 1]  n'est pas sur le terrain.  Rubis[id:122 quantite: 1]  n'est pas sur le terrain.  
+Étape 4:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 5:
+Déplacement de l'agent vers la position (2, 3)
+Force utilisée: 25
+Nouvelle position de l'agent: (2, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 6:
+Déplacement de l'agent vers la position (3, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 7:
+Déplacement de l'agent vers la position (4, 3)
+Force utilisée: 64
+Nouvelle position de l'agent: (4, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 8:
+Déplacement de l'agent vers la position (4, 3)
+Force utilisée: 63
+Nouvelle position de l'agent: (4, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 9:
+Déplacement de l'agent vers la position (4, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 10:
+Déplacement de l'agent vers la position (3, 3)
+Force utilisée: 72
+Nouvelle position de l'agent: (3, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 11:
+Déplacement de l'agent vers la position (3, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 4)
+Fortune de l'agent: 1858
+Contenu du sac de l'agent: 
+Diamant[id:66 quantite: 1]  n'est pas sur le terrain.  
+Étape 12:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 13:
+Déplacement de l'agent vers la position (3, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 14:
+Déplacement de l'agent vers la position (3, 3)
+Force utilisée: 16
+Nouvelle position de l'agent: (3, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 15:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 25
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 1656
+Contenu du sac de l'agent: 
+Opale[id:103 quantite: 1]  n'est pas sur le terrain.  
+Étape 16:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 17:
+Déplacement de l'agent vers la position (3, 0)
+Force utilisée: 82
+Nouvelle position de l'agent: (3, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 18:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 19:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 20:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 21:
+Déplacement de l'agent vers la position (0, 3)
+Force utilisée: 17
+Nouvelle position de l'agent: (0, 3)
+Fortune de l'agent: 2029
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  
+Étape 22:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 20
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 23:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 44
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 24:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 79
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 25:
+Déplacement de l'agent vers la position (3, 3)
+Force utilisée: 97
+Nouvelle position de l'agent: (3, 3)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 26:
+Déplacement de l'agent vers la position (3, 4)
+Force utilisée: 18
+Nouvelle position de l'agent: (3, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 27:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 28:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 29:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 2595
+Contenu du sac de l'agent: 
+Rubis[id:125 quantite: 1]  n'est pas sur le terrain.  Opale[id:111 quantite: 1]  n'est pas sur le terrain.  
+Étape 30:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 58
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 31:
+Déplacement de l'agent vers la position (2, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 32:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 33:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 34:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 35:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 36:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 86
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 37:
+Déplacement de l'agent vers la position (2, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 38:
+Déplacement de l'agent vers la position (2, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 39:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 40:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 41:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 42:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 43:
+Déplacement de l'agent vers la position (2, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 44:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 45:
+Déplacement de l'agent vers la position (3, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 46:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 11
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 47:
+Déplacement de l'agent vers la position (3, 2)
+Force utilisée: 71
+Nouvelle position de l'agent: (3, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 48:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 49:
+Déplacement de l'agent vers la position (1, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 50:
+Déplacement de l'agent vers la position (0, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 51:
+Déplacement de l'agent vers la position (1, 0)
+Force utilisée: 53
+Nouvelle position de l'agent: (1, 0)
+Fortune de l'agent: 889
+Contenu du sac de l'agent: 
+Rubis[id:119 quantite: 1]  n'est pas sur le terrain.  
+Étape 52:
+Déplacement de l'agent vers la position (0, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 0)
+Fortune de l'agent: 4289
+Contenu du sac de l'agent: 
+Rubis[id:119 quantite: 1]  n'est pas sur le terrain.  Diamant[id:124 quantite: 1]  n'est pas sur le terrain.  
+Étape 53:
+Déplacement de l'agent vers la position (0, 1)
+Force utilisée: 77
+Nouvelle position de l'agent: (0, 1)
+Fortune de l'agent: 4289
+Contenu du sac de l'agent: 
+Rubis[id:119 quantite: 1]  n'est pas sur le terrain.  Diamant[id:124 quantite: 1]  n'est pas sur le terrain.  
+Étape 54:
+Déplacement de l'agent vers la position (0, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 2)
+Fortune de l'agent: 5059
+Contenu du sac de l'agent: 
+Rubis[id:119 quantite: 1]  n'est pas sur le terrain.  Diamant[id:124 quantite: 1]  n'est pas sur le terrain.  Diamant[id:81 quantite: 1]  n'est pas sur le terrain.  
+Étape 55:
+Déplacement de l'agent vers la position (1, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 56:
+Déplacement de l'agent vers la position (0, 4)
+Force utilisée: 33
+Nouvelle position de l'agent: (0, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 57:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 58:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 59:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 60:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 55
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 61:
+Déplacement de l'agent vers la position (2, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 62:
+Déplacement de l'agent vers la position (1, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 63:
+Déplacement de l'agent vers la position (0, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 4)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 64:
+Déplacement de l'agent vers la position (0, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 3)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 65:
+Déplacement de l'agent vers la position (1, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 2)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 66:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 94
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 1524
+Contenu du sac de l'agent: 
+Opale[id:114 quantite: 1]  n'est pas sur le terrain.  
+Étape 67:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 68:
+Déplacement de l'agent vers la position (3, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 69:
+Déplacement de l'agent vers la position (3, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 70:
+Déplacement de l'agent vers la position (2, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 71:
+Déplacement de l'agent vers la position (2, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 72:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 73:
+Déplacement de l'agent vers la position (1, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 74:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 75:
+Déplacement de l'agent vers la position (1, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 76:
+Déplacement de l'agent vers la position (0, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (0, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 77:
+Déplacement de l'agent vers la position (1, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 78:
+Déplacement de l'agent vers la position (2, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 79:
+Déplacement de l'agent vers la position (3, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 80:
+Déplacement de l'agent vers la position (4, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 1)
+Fortune de l'agent: 4383
+Contenu du sac de l'agent: 
+Rubis[id:102 quantite: 1]  n'est pas sur le terrain.  
+Étape 81:
+Déplacement de l'agent vers la position (4, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 82:
+Déplacement de l'agent vers la position (4, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 83:
+Déplacement de l'agent vers la position (3, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 84:
+Déplacement de l'agent vers la position (4, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 85:
+Déplacement de l'agent vers la position (3, 2)
+Force utilisée: 44
+Nouvelle position de l'agent: (3, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 86:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 87:
+Déplacement de l'agent vers la position (2, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 88:
+Déplacement de l'agent vers la position (1, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (1, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 89:
+Déplacement de l'agent vers la position (2, 1)
+Force utilisée: 48
+Nouvelle position de l'agent: (2, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 90:
+Déplacement de l'agent vers la position (2, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 91:
+Déplacement de l'agent vers la position (2, 0)
+Force utilisée: 0
+Nouvelle position de l'agent: (2, 0)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 92:
+Déplacement de l'agent vers la position (3, 1)
+Force utilisée: 20
+Nouvelle position de l'agent: (3, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 93:
+Déplacement de l'agent vers la position (3, 1)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 1)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 94:
+Déplacement de l'agent vers la position (4, 2)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 2)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 95:
+Déplacement de l'agent vers la position (3, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 96:
+Déplacement de l'agent vers la position (3, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 97:
+Déplacement de l'agent vers la position (3, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (3, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 98:
+Déplacement de l'agent vers la position (4, 3)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 3)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 99:
+Déplacement de l'agent vers la position (4, 4)
+Force utilisée: 0
+Nouvelle position de l'agent: (4, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Étape 100:
+Déplacement de l'agent vers la position (3, 4)
+Force utilisée: 37
+Nouvelle position de l'agent: (3, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: 
+sac est vide
+Final State:
+Contenu de la grille:
+Gardien[id:116 quantite: 3]  en position (1, 1)
+Gardien[id:118 quantite: 4]  en position (1, 3)
+Gardien[id:129 quantite: 6]  en position (2, 0)
+Gardien[id:140 quantite: 0]  en position (2, 1)
+Gardien[id:32 quantite: 0]  en position (2, 3)
+Gardien[id:113 quantite: 3]  en position (3, 1)
+Gardien[id:136 quantite: 9]  en position (4, 0)
+Gardien[id:96 quantite: 8]  en position (4, 2)
+Gardien[id:5 quantite: 3]  en position (4, 3)
+Gardien[id:131 quantite: 6]  en position (4, 4)
+Information sur l'agent:
+Position de l'agent: (3, 4)
+Fortune de l'agent: 0
+Contenu du sac de l'agent: sac est vide
+
