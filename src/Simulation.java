@@ -1,5 +1,3 @@
-//CHAREF CAMELIA 21202057
-//BEN MIMOUN SARAH 28713241
 
 import java.util.ArrayList;
 
