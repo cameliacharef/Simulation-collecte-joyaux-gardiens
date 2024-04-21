@@ -1,5 +1,4 @@
-//CHAREF CAMELIA 21202057
-//BEN MIMOUN SARAH 28713241
+
 public abstract class Joyau extends Contenu {
 
     public static final int X = 5;
