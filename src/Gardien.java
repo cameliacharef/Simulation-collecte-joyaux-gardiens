@@ -1,5 +1,3 @@
-//CHAREF CAMELIA 21202057
-//BEN MIMOUN SARAH 28713241
 public class Gardien extends Contenu{
     private int points;
     public Gardien(int quantite){
